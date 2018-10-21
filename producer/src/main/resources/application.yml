@@ -1,0 +1,7 @@
+#spring.cloud.stream.bindings.<channelName>.<property>
+spring:
+  cloud:
+    stream:
+      bindings:
+        consumer:
+          destination: greetings
