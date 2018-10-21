@@ -4,4 +4,4 @@ spring:
     stream:
       bindings:
         consumer:
-          destination: greetings
+          destination: player

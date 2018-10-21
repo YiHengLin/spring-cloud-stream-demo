@@ -3,8 +3,8 @@ spring:
     stream:
       bindings:
         producer:
-          destination: greetings
-          group: myGroup
+          destination: player
+          group: NBA
 
 
 server:
